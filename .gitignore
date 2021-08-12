@@ -1,0 +1,6 @@
+/node_modules
+/app
+/obfuscate
+/result
+.env
+package-lock.json
